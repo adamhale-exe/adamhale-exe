@@ -6,10 +6,9 @@ Full Stack Developer
 
 I'm a lifelong problem solver and recent graduate from the School of Code's intensive bootcamp. Proficient in HTML, CSS, JavaScript, React, TypeScript, and Next.js, I've also delved into databases with Postgres and built RESTful APIs using Express. Beyond coding, I'm passionate about hands-on work, from fixing electronics to climbing rocks and digging into gardening. I approach life with a holistic mindset, always considering the bigger picture. Now, armed with coding skills and a knack for problem-solving, I'm excited to dive into the tech world and take on new challenges!
 
-* 🌍  I'm based in West Midlands
+* 🌍  I'm based in West Midlands, UK
 * ✉️  You can contact me at [adam.hale92@googlemail.com](mailto:adam.hale92@googlemail.com)
-* 🚀  I'm currently working on [Winner Dinner](http://winner-dinner.vercel.app/)
-* 🤝  I'm open to collaborating on exciting projects
+* 🚀  I'm currently working at [Pleo](https://github.com/pleo-io)
 
 ### Skills
 
